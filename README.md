@@ -1,18 +1,15 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Aplicacion de Gestor De Usuarios con React
+![image](https://user-images.githubusercontent.com/69993388/187284651-00c9f82b-5e5d-4185-839d-05b1a6ddefa6.png)
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
 
 ### `npm test`
 
